@@ -1,0 +1,29 @@
+package lapices;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author aralu
+ */
+public class Lapices {
+
+    public static void main(String[] args) 
+    {
+       Scanner sc = new Scanner(System.in);
+        int a,b,c,d,e,f,g,h,i;
+        
+        System. out.println("Ingresa el perimer numero "+"a");
+        a = leer.nextInt(a);
+        System.out.println("Ingresa el perimer numero"+"b");
+        System.out.println("Ingresa el perimer numero"+"c");
+        System.out.println("Ingresa el perimer numero"+"d");
+        System.out.println("Ingresa el perimer numero"+"f");
+        System.out.println("Ingresa el perimer numero"+"g");
+        System.out.println("Ingresa el perimer numero"+"h");
+        System.out.println("Ingresa el perimer numero"+"i");
+    
+    }
+
+    
+}
